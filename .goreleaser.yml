@@ -6,7 +6,7 @@ before:
     - go mod download
 release:
   github:
-    owner: itzg
+    owner: loong64-abi2-0
     name: rcon-cli
 builds:
 - goos:
